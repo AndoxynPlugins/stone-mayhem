@@ -34,3 +34,9 @@ Usage
  * You'll find towers on top of mountains, each tower contains a bunch of wood inside it that you can use to burn in a furnace,
    or make tools to fight with. There are no trees, so the wood you find in these towers is all you get.
  * Each tower also has a chest with some extra goodies in it, that you will find useful for survival!
+
+Unfixed bugs:
+* Towers look a bit ugly, they work though
+* Towers are placed to frequently, there should be only one for every one-two mountain peaks
+* Lava/water lakes sometimes have flowing water on chunk boundaries
+* There are some chunks which the block populators seem to skip entirely, the method doesn't run *at all* on them.
